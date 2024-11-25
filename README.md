@@ -12,6 +12,8 @@ I use [SourceHut](https://sr.ht/~aethrvmn), and [my own server](https://git.apot
 
 I support digital self-sovereignty.
 
+I like Nim as a programming language, I think it has future.
+
 ---
 
 ### GitHub Stats
