@@ -7,7 +7,7 @@ ML/Software Engineer @ New Odyssey
 Find all my projects ***not*** here because GitHub has decided to be evil.
 Use my [Don't Be Evil License 1.0](https://aethrvmn.gr/license).
 
-I use [SourceHut](https://sr.ht/~aethrvmn), and [my own server](link-to-server).
+I use [SourceHut](https://sr.ht/~aethrvmn), and [my own server](https://git.apotheke.earth).
 [Codeberg](https://codeberg.org) is also a good alternative to GitHub.
 
 I support digital self-sovereignty.
