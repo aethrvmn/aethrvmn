@@ -1,5 +1,4 @@
-# Vasilis Valatsos
-# Βασίλης Βαλατσός
+# Vasilis Valatsos (Βασίλης Βαλατσός)
 
 ---
 
