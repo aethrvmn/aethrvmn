@@ -7,23 +7,23 @@ ML/Software Engineer @ New Odyssey
 Find all my projects ***not*** here because GitHub has decided to be evil.
 Use my [Don't Be Evil License 1.0](https://aethrvmn.gr/license).
 
-I use [SourceHut](https://sr.ht/~aethrvmn), and [my own server](https://git.apotheke.earth).
-[Codeberg](https://codeberg.org) is also a good alternative to GitHub.
+I use [Codeberg](https://codeberg.org/aethrvmn), and [my own server](https://git.apotheke.earth).
+[SourceHut](https://sr.ht) is also a good alternative to GitHub.
 
 I support digital self-sovereignty.
 
-I like Nim as a programming language, I think it has future.
+I like [Nim](https://nim-lang.org) as a programming language, I think it has a bright future.
 
 ---
 
-### GitHub Stats
+### Very Important Information!
 ![Wow so cool](https://github-readme-stats.vercel.app/api?username=aethrvmn)
 
 ![Very impressive!!!](https://github-readme-stats.vercel.app/api/top-langs/?username=aethrvmn)
 
 ---
 
-### Cool Widgets
+### Wow, So Impressive!
 - 🖥️ **Current Repo Activity**  
 ![radical!](https://streak-stats.demolab.com?user=aethrvmn)
 
@@ -32,7 +32,7 @@ I like Nim as a programming language, I think it has future.
 
 ---
 
-### Contributions
+### Amazing!
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=aethrvmn)
 
 <!--
