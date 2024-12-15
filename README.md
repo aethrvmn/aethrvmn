@@ -5,14 +5,16 @@
 ML/Software Engineer @ New Odyssey
 
 Find all my projects ***not*** here because GitHub has decided to be evil.
+
 Use my [Don't Be Evil License 1.0](https://aethrvmn.gr/license).
 
 I use [Codeberg](https://codeberg.org/aethrvmn), and [my own server](https://git.apotheke.earth).
-[SourceHut](https://sr.ht) is also a good alternative to GitHub.
 
-I support digital self-sovereignty.
+[SourceHut](https://sr.ht) is also a good alternative to GitHub, but you have to get used to sending emails.
 
 I like [Nim](https://nim-lang.org) as a programming language, I think it has a bright future.
+
+I support digital self-sovereignty.
 
 ---
 
