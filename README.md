@@ -1,7 +1,5 @@
 # Vasilis Valatsos (Βασίλης Βαλατσός)
 
----
-
 ML/Software Engineer @ New Odyssey
 
 Find all my projects ***not*** here because GitHub has decided to be evil.
