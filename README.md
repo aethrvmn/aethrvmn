@@ -24,10 +24,7 @@ I support digital self-sovereignty.
 ---
 
 ### Wow, So Impressive!
-- 🖥️ **Current Repo Activity**  
-![radical!](https://streak-stats.demolab.com?user=aethrvmn)
-
-- 🌍 **Visitors Count**  
+🌍 **Visitors Count**  
 ![amazing](https://komarev.com/ghpvc/?username=aethrvmn)
 
 ---
