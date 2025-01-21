@@ -8,7 +8,7 @@ Find all my projects ***not*** here because I disagree with GitHub. Instead I us
 
 I mostly use my own custom [Don't Be Evil License 1.0](https://aethrvmn.gr/license).
 
-I like [Nim](https://nim-lang.org) as a programming language, I think it has a bright future.
+I currently mostly use Python, but I really like [Nim](https://nim-lang.org) as a programming language, I think it has a bright future.
 
 I support digital self-sovereignty.
 
