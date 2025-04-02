@@ -2,11 +2,11 @@
 
 ML/Software Engineer @ New Odyssey
 
-<h1> Find all my projects ***not*** here because I disagree with GitHub. Instead I use [Codeberg](https://codeberg.org/aethrvmn), and [my own git server](https://git.apotheke.earth). </h1>
+<h1> Find all my projects ***not*** here because I disagree with GitHub. <br/> Instead I use [Codeberg](https://codeberg.org/aethrvmn), and [my own git server](https://erga.apotheke.earth). </h1>
 
 [SourceHut](https://sr.ht) is also a good alternative to GitHub, but you have to get used to sending emails.
 
-I mostly use my own custom [Don't Be Evil License 1.0](https://aethrvmn.gr/license).
+I mostly use my own custom [Don't Be Evil License 1.1](https://apotheke.earth/license). It's a [SourceFirst](sourcefirst.org) license.
 
 I currently mostly use Python, but I really like [Nim](https://nim-lang.org) as a programming language, I think it has a bright future.
 
