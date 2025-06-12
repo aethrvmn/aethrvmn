@@ -2,7 +2,11 @@
 
 ML/Software Engineer @ New Odyssey
 
-<h1> Find all my projects ***not*** here because I disagree with GitHub. <br/> Instead I use [Codeberg](https://codeberg.org/aethrvmn), <br/> and [my own git server](https://erga.apotheke.earth). </h1>
+<h1> Find all my projects ***not*** here because I disagree with GitHub. </h1> 
+
+Instead I use [Codeberg](https://codeberg.org/aethrvmn),  
+
+and [my own git server](https://erga.apotheke.earth).
 
 [SourceHut](https://sr.ht) is also a good alternative to GitHub, but you have to get used to sending emails.
 
